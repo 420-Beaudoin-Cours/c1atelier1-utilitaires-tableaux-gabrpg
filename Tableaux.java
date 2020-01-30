@@ -196,8 +196,4 @@ public class Tableaux {
             return -1;
         }
     }
-
-
-
-
 }
